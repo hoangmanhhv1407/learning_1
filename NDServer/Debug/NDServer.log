@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+C:\Users\tuans\source\repos\NDServer\NDServer\dllmain.cpp(3041,1): warning C4273: 'DllMain': inconsistent dll linkage
+C:\Users\tuans\source\repos\NDServer\NDServer\dllmain.h(7,23): message : see previous definition of 'DllMain'
+C:\Users\tuans\source\repos\NDServer\NDServer\dllmain.cpp(1018): warning C4733: Inline asm assigning to 'FS:0': handler not registered as safe handler
+  NDServer.vcxproj -> C:\Users\tuans\source\repos\NDServer\Debug\NDServer.dll

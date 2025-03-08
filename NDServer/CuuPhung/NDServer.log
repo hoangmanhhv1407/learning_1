@@ -1,0 +1,11 @@
+﻿  dllmain.cpp
+D:\NDServer Cuu Phung Chuan\NDServer\dllmain.cpp(523): warning C4405: 'inc': identifier is reserved word
+D:\NDServer Cuu Phung Chuan\NDServer\dllmain.cpp(1088): warning C4401: '_sHeader::sLength': member is bit field
+D:\NDServer Cuu Phung Chuan\NDServer\dllmain.cpp(1445): warning C4401: '_sHeader::sLength': member is bit field
+D:\NDServer Cuu Phung Chuan\NDServer\dllmain.cpp(17662,1): warning C4273: 'DllMain': inconsistent dll linkage
+D:\NDServer Cuu Phung Chuan\NDServer\dllmain.h(7,23): message : see previous definition of 'DllMain'
+  pch.cpp
+  Generating Code...
+D:\NDServer Cuu Phung Chuan\NDServer\dllmain.cpp(4667): warning C4733: Inline asm assigning to 'FS:0': handler not registered as safe handler
+     Creating library D:\NDServer Cuu Phung Chuan\CuuPhung\NDServer.lib and object D:\NDServer Cuu Phung Chuan\CuuPhung\NDServer.exp
+LINK : fatal error LNK1561: entry point must be defined
